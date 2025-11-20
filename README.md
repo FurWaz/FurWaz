@@ -1,10 +1,10 @@
 # FurWaz
 
-## Current project(s)
-- [FullBowody](https://github.com/FullBowody) - Track your body in realtime with simple cameras!
-- [Pypoll](https://github.com/Pypoll) - Ask thousands of people within seconds!
-- [VyBeen](https://github.com/VyBeen) - Listen and sing music together, thanks to VyBeen!
+Little fox, working on it's free time on robots, websites, and games 😉
 
-## Useful links
-- [GitHub - FurWaz](https://github.com/furwaz)
-- [My Website - furwaz.com](https://furwaz.com/)
+I like art, code, and everything that relates to creativity 🎨
+
+## Current projets
+Check out my current projet : [TNY Robotics](https://github.com/TNY-Robotics) !
+
+I'm working on a fully open-source, affordable, and powerful (not to say overkill) robot dog since 2024 :)
